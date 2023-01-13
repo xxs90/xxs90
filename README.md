@@ -8,10 +8,4 @@
 
 [![xxs90's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xxs90&bg_color=E8F8F5&color=616A6B&line=85C1E9&point=3498DB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![xxs90's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxs90&show_icons=True&bg_color=E8F8F5&title_color=616A6B&text_color=616A6B&icon_color=3498DB)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxs90&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!---
-xxs90/xxs90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![xxs90's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxs90&show_icons=True&bg_color=E8F8F5&title_color=616A6B&text_color=616A6B)](https://github.com/anuraghazra/github-readme-stats)
