@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Guanang Su** @xxs90, you can also call me Shirley. 
-- 👀 I’m interested in Robotics, snowboarding and reading.
-- 🌱 I’m a second year master student in [Northeastern University](https://www.northeastern.edu/) in major of **Robotics**, Computer Science.
+- 👀 I’m interested in **Robotics**, **snowboarding** and **reading**.
+- 🌱 I’m a second year master student in [Northeastern University](https://www.northeastern.edu/) in major of Robotics, Computer Science.
 - 🌱 I’m a research assistant advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) in [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/). I am working on topic of robot manipulation and learning with equivariant symmetric.
 - 💞️ **I’m looking for a Ph.D. position in research of robot learning, vision, perception and biomedical realted fields**. 
 - 📫 Please reach me at su.gu@northeastern.edu or guanang.0228@gmail.com.
