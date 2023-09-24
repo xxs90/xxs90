@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Guanang Su** @xxs90, you can also call me **Shirley**. 
 - 👀 I’m interested in **Robotics**, **snowboarding** and **reading**.
-- 🌱 I will join [Robotics: Perception and Manipulation (RPM) Lab](https://rpm-lab.github.io/) @ University of Minnesota starting this Fall. The research topic is about robot learning.
-- 🌱 I’m currently a research assistant advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) in [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/). I am working on topic of robot manipulation and learning with equivariant symmetric. 
-- 📫 Please reach me at guanang.0228@gmail.com.
+- 🌱 I'm a first-year Ph.D. student in [Robotics: Perception and Manipulation (RPM) Lab](https://rpm-lab.github.io/) @ University of Minnesota. The research topic is robot learning and manipulation.
+- 🌱 Before that, I was a research assistant advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) in [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/). I am working on robot manipulation and learning with equivariant symmetric. 
+- 📫 Please reach me at [guanang.0228@gmail.com](mailto:guanang.0228@gmail.com) or [su000265@umn.edu](mailto:su000265@umn.edu).
 - 🔗 My personal website is https://xxs90.github.io.
