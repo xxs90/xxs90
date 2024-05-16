@@ -5,4 +5,4 @@
 - 📫 Please reach me at [guanang.0228@gmail.com](mailto:guanang.0228@gmail.com) or [su000265@umn.edu](mailto:su000265@umn.edu).
 - 🔗 My personal website is https://xxs90.github.io.
 
-[![xxs90's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xxs90&bg_color=E8F8F5&color=616A6B&line=85C1E9&point=3498DB)](https://github.com/ashutosh00710/github-readme-activity-graph.cyclic.app)
+[![xxs90's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xxs90&bg_color=E8F8F5&color=616A6B&line=85C1E9&point=3498DB)](https://github.com/xxs90/github-readme-activity-graph)
